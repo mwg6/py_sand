@@ -1,0 +1,32 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "f8e8fcfb2d2a265a606d65a50bae56b6bd98021396081b69aec516cc439428ea"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "graphics": {
+            "file": "https://raw.githubusercontent.com/jminz/graphics.py/master/graphics-py_installer.tar.gz"
+        },
+        "install": {
+            "hashes": [
+                "sha256:d6d927c47b82f0183557830b98dcc36f3520489c66c3a2eda0c898b718e393b2",
+                "sha256:fe75019b45eb1febc9232f452861e7693efeadd554f18cdc4ff647f29349b145"
+            ],
+            "index": "pypi",
+            "version": "==1.3.3"
+        }
+    },
+    "develop": {}
+}
