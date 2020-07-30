@@ -6,9 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-graphics = {file = "https://raw.githubusercontent.com/jminz/graphics.py/master/graphics-py_installer.tar.gz"}
-pip = "*"
-install = "*"
+pygame = "*"
+numpy = "*"
 
 [requires]
 python_version = "3.6"
